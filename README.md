@@ -20,8 +20,9 @@ Primer paso ⭐ Click en el botón **fork** ubicado en la parte superior derecha
 2. ### Clonar el Repo
 Puedes **clonar** el repositorio en tu máquina, puedes usar **[Github_Desktop](https://desktop.github.com/)** o directamente por línea de comandos [Terminal/bash](https://git-scm.com/downloads).
 
-Usando la **Terminal** -
-``bash
+Usando la **Terminal**
+```bash=
+  bash
   git clone
 ```
 - [Clonando el Repositorio](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
