@@ -35,3 +35,10 @@ Suba sus cambios y cree un PR.
 
 Y eso es todo!!!  
 Ya hiciste tu primera contribución open-source 😋.
+
+# Contribuidores :heart:
+-  
+-  
+-  
+-  
+> (Agrega tu nombre)
