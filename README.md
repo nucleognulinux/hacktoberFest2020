@@ -17,7 +17,7 @@ Durante todo el mes de Octubre del 2020, todo lo que tiene que hacer es contribu
 
    Primer paso ⭐ Click en el boton **fork** ubicado en la parte superior derecha. Se Creara una copia del repositorio en tu cuenta.
 
-    - Mas informacion en [How to fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+    - Mas informacion en [Como hacer un fork](https://docs.github.com/es/github/getting-started-with-github/fork-a-repo)
 
 2. ### Clonar el Repo
 
@@ -29,7 +29,7 @@ Durante todo el mes de Octubre del 2020, todo lo que tiene que hacer es contribu
    git clone <url_name>
    ```
 
-   - [Cloning the Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+   - [Clonando el Repositorio](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 3. ### Prepara tus cambios
 
@@ -39,6 +39,6 @@ Durante todo el mes de Octubre del 2020, todo lo que tiene que hacer es contribu
 
     Suba sus cambios y cree un PR 
 
-    - [Push your first code](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
+    - [Como hacer un Push ?](https://docs.github.com/es/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
 Y eso es todo!!! ya hiciste tu primera contribucion open-source 😋.
