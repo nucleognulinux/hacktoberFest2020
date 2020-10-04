@@ -22,8 +22,7 @@ Puedes **clonar** el repositorio en tu máquina, puedes usar **[Github_Desktop](
 
 Usando la **Terminal**
 ```bash=
-  bash
-  git clone
+git clone https://github.com/nucleognulinux/hacktoberFest2020/
 ```
 - [Clonando el Repositorio](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
