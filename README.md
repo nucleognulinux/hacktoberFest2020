@@ -49,7 +49,7 @@ Y eso es todo!!!
 Ya hiciste tu primera contribución 😋.
 
 # Contribuidores :heart:
--  
+-  Carlos Gutierrez [CarGDev Github](https://github.com/CarGDev)
 -  
 -  
 -  
