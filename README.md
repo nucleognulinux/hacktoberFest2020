@@ -48,9 +48,12 @@ git push
 Y eso es todo!!!  
 Ya hiciste tu primera contribución 😋.
 
+> Cabe mencionar que las contribuciones que se hagan a proyectos open source deben ser lo suficientemente detallados y explicativos para evitar caer en la trampa del spam
+
 # Contribuidores :heart:
 -  
 -  
 -  
 -  
+- Andres Fernando <GitHub: [andresfmj](https://github.com/andresfmj)>
 > (Agrega tu nombre)
