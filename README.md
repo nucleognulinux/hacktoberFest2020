@@ -52,5 +52,4 @@ Ya hiciste tu primera contribución 😋.
 -  
 -  
 -  
--  
-> Juan Andrés Fuentes
+-  Juan Andrés Fuentes
