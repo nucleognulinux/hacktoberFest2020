@@ -57,4 +57,6 @@ Ya hiciste tu primera contribución 😋.
 - Andres Fernando <GitHub: [andresfmj](https://github.com/andresfmj)>
 - Manuel Ojeda: https://github.com/manuelojeda
 - Alberth Apaza: [alberth7]  (https://github.com/alberth7)
+- Rodrigo Quispe
+
 > (Agrega tu nombre)
